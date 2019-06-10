@@ -10,6 +10,6 @@ pages:
     - Home: 'index.md'
     - Deep Learning:
         - 'Introduction' : 'deeplearning_int.md'
-        - 'Example' : 'deeplearning.md'
+        - 'Example' : 'deeplearning_ex.md'
 
 theme: readthedocs
