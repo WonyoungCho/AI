@@ -4,6 +4,7 @@
 
 H(x) = W x + b
 
+* b : bias
 
 ## Cost Function
 
