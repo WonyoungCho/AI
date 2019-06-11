@@ -1,3 +1,3 @@
-# 알고리즘 Algorithm
+# Algorithm
 
 어떤 문제를 해결하기 위한 절차들의 집합.
