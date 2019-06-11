@@ -22,7 +22,7 @@ Sigmoid function을 이용하기 위해서는 Y가 0~1 사이의 값이여야 �
 
 Values -> Probabilities
 
-S(y_i) = exp(y_i)/sum(exp(y_j),j)
+S(y_i) = exp(y_i)/Sum(exp(y_j),j)
 
 ex> Y = [2.0, 1.0, 0.1]-> S = [exp(2.0), exp(1.0), exp(0.1)]/(exp(2.0)+exp(1.0)+exp(0.1))
 
