@@ -29,3 +29,9 @@ S(y_i) = exp(y_i)/Sum(exp(y_j),j)
 한 가지 값만 취하는 technique을 One-Hot encoding 이라 한다.
 
 > ex) [0.7, 0.2, 0.1] -> [1, 0, 0]
+
+또한 이러한 작업이 cost function을 구하는 과정이다.
+
+## Cross-entropy cost function
+
+D(S,L) = -Sum(L_i log(S_i),i)
