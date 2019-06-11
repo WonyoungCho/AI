@@ -34,4 +34,4 @@ H(x1,x2,x3) = w1 x1 + w2 x2 + w3 x3 + b
 
 H(X) = X W
 
-- (x1, x2, x3) 값을 instance 라고 부른다.
+- [x1, x2, x3] 값을 instance 라고 부른다.
