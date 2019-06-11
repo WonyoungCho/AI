@@ -20,6 +20,10 @@ Cost 값이 최소가 되는 모델을 찾는 것이 목표.
 
 기울기 W 와 cost function의 이분 값의 차이를 통해 cost 값이 최소가 되는 모델을 찾는 알고리즘.
 
+W := W - a (cost(W))'
+
+* a : learning rate
+
 # Multi-variable Linear Regression
 
 여러개의 변수가 있을 때 가정할 수 있는 선형 모델.
