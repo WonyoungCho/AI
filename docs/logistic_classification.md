@@ -26,6 +26,6 @@ S(y_i) = exp(y_i)/Sum(exp(y_j),j)
 
 > ex) Y = [2.0, 1.0, 0.1]-> S = [exp(2.0), exp(1.0), exp(0.1)]/(exp(2.0)+exp(1.0)+exp(0.1)) = [0.7, 0.2, 0.1]
 
-한가지 값만 취하는 technique을 One-Hot encoding 이라 한다.
+한 가지 값만 취하는 technique을 One-Hot encoding 이라 한다.
 
 > ex) [0.7, 0.2, 0.1] -> [1, 0, 0]
