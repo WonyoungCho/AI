@@ -18,3 +18,10 @@ Cost 값이 최소가 되는 모델을 찾는 것이 목표.
 ## Gradient Descent Algorithm
 
 기울기 W 와 cost function의 이분 값의 차이를 통해 cost 값이 최소가 되는 모델을 찾는 알고리즘.
+
+# Multi-variable Linear Regression
+
+여러개의 변수가 있을 때 가정할 수 있는 선형 모델.
+
+H(x1,x2,x3) = W1 x1 + W2 x2 + W3 x3 + b
+
