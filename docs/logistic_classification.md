@@ -10,6 +10,4 @@ g(z) = 1/(1+exp(-z))
 
 가정한 모델이 exponential의 형태이기 때문에 cost function을 log 함수로 생각할 수 있다. 
 
-> -log(H(x))   : y=1
-
-> -log(1-H(x)) : y=0
+c(H(x),y) = -y log(H(x)) -(1-y) log(1-H(x))
