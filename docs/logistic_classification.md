@@ -24,7 +24,7 @@ Values -> Probabilities
 
 S(y_i) = exp(y_i)/sum(exp(y_j),j)
 
-ex> Y = [2.0, 1.0, 0.1]-> S = exp(2.0)/(exp(2.0)+exp(1.0)+exp(0.1))
+ex> Y = [2.0, 1.0, 0.1]-> S = [exp(2.0), exp(1.0), exp(0.1)]/(exp(2.0)+exp(1.0)+exp(0.1))
 
 
 Hot encoding
