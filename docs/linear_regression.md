@@ -15,4 +15,6 @@ H(x) = W x + b
 Cost 값이 최소가 되는 모델을 찾는 것이 목표.
 
 
+## Gradient Descent Algorithm
 
+기울기 W 와 cost function의 이분 값의 차이를 통해 cost 값이 최소가 되는 모델을 찾는 알고리즘.
